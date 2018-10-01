@@ -1,7 +1,7 @@
 Linkedin Scraper
 
-This program provides a CLI that allows user to search for a keyword and extract email address from resultant profiles automatically.
-It is also possible to search for a keyword and send invitations to all resultant profiles.
+This program provides a CLI that allows user to search for a keyword on linkedin.com and extract email address from resultant profiles automatically.
+It is also possible to search for a keyword on linkedin.com and send invitations to all resultant profiles.
 
 Instructions:
   - Run Linkedin Searcher.cmd 
