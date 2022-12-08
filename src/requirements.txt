@@ -1,4 +1,4 @@
-certifi==2018.8.13
+certifi==2022.12.7
 selenium==3.14.0
 urllib3==1.23
 wincertstore==0.2
